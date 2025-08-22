@@ -13,9 +13,9 @@
 
 # Exercício - Lógica de Programação com Python
 
-## Lista 04 - Exercício 28
+## Lista 04 - Exercício 31 (parcial)
 
-Faça um programa para entrar com 5 números e imprimir a média desses números.
+Faça um programa para calcular o seguinte somatório: $\sum_{i=2}^n \frac{i}{i(i-1)}$, onde $n$ é fornecido pelo usuário.
 
 O programa deve assumir que a entrada e saída seja exatamente no formato dado nos exemplos a seguir. **Não adicione outras mensagens ou mude a capitalização das letras pois se fizer isso o teste não passará!**
 
@@ -25,11 +25,11 @@ O programa deve assumir que a entrada e saída seja exatamente no formato dado n
 
 Entrada:
 ```
-1 2 3 4 5
+2
 ```
 Saída:
 ```
-3.00
+1.00
 ```
 
 ---
@@ -38,11 +38,11 @@ Saída:
 
 Entrada:
 ```
--10 -20 -30 -40 -50
+3
 ```
 Saída:
 ```
--30.00
+1.50
 ```
 
 ---
@@ -51,9 +51,9 @@ Saída:
 
 Entrada:
 ```
-4 4 4 4 4
+1
 ```
 Saída:
 ```
-4.00
+0.00
 ```
